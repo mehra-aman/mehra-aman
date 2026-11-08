@@ -4,8 +4,6 @@
 
 I build and evaluate the infrastructure that lets organizations run GenAI and AI agents securely at scale. I'm currently deepening my foundations in systems, GPU computing, and generative models.
 
-📍 Boston, MA
-
 [![Resume](https://img.shields.io/badge/Resume-View_PDF-blue?style=flat)](./Aman_Mehra_Resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-mehra-012464a)
 
 ---
@@ -18,7 +16,6 @@ I build and evaluate the infrastructure that lets organizations run GenAI and AI
 | See what I'm learning now | [Current focus](#current-focus) |
 | Check my technical toolkit | [Technologies](#technologies) |
 | See my work history and qualifications | [Resume (PDF)](./Aman_Mehra_Resume.pdf) |
-| Follow my project work | [Portfolio roadmap](#portfolio-roadmap) |
 
 ---
 
@@ -65,15 +62,7 @@ I build and evaluate the infrastructure that lets organizations run GenAI and AI
 - **Short term:** complete my MS in CS & AI and build public projects that put the coursework into practice.
 - **Longer term:** lead Responsible AI and cyber-operations efforts for enterprise AI platforms.
 
-## Portfolio roadmap
-
-This profile is a foundation that I'll keep building on throughout the program. Repositories will appear here as I finish them, and I'm intentionally not filling the space with placeholders.
-
-- [ ] Coursework projects from the BU program (systems and programming foundations)
-- [ ] A write-up on containment ("ring-fencing") architectures for enterprise AI agents
 
 ---
-
-*Views here are my own, and my public work avoids employer and client confidential information.*
 
 *Last updated: November 2026*
