@@ -1,6 +1,6 @@
 # Hi, I'm Aman Mehra 👋
 
-**AI platform engineer · Engineering leader · MS CS & AI student at Boston University**
+**AI Platform engineer · Engineering leader · MS CS & AI student at Boston University**
 
 I build and evaluate the infrastructure that lets organizations run GenAI and AI agents securely at scale. I'm currently deepening my foundations in systems, GPU computing, and generative models.
 
