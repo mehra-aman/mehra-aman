@@ -25,7 +25,7 @@ I build and evaluate the infrastructure that lets organizations run GenAI and AI
 - **Academic:** Pursuing an online **MS in Computer Science & Artificial Intelligence at Boston University** (started Fall 2026). Earlier, I completed Columbia Engineering's Executive Education AI program.
 - **Leadership:** I've led globally distributed engineering teams, owned technical direction, and built engineering teams around AI platforms.
 
-*My [resume](./Aman_Mehra_Resume.pdf) has the full work history. This page focuses on how I think and where I'm headed.*
+*My [resume](./Aman_Mehra_Resume.pdf) has the full work history.*
 
 ## Current focus
 
@@ -45,9 +45,9 @@ I build and evaluate the infrastructure that lets organizations run GenAI and AI
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Practices:** Agile · test-driven development · secure environment design
+**Practices:** Agile · Test-driven development · About secure environment design and sandboxes
 
-**Learning now:** GPU/CUDA computing · scalable systems · generative model theory
+**Learning now:** GPU/CUDA computing · scalable systems · Generative model theory
 
 ---
 
