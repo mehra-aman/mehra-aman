@@ -1,6 +1,6 @@
 # Hi, I'm Aman Mehra 👋
 
-**AI Platform engineer · Engineering leader · MS CS & AI student at Boston University**
+**AI platform engineer · Engineering leader · MS CS & AI student at Boston University**
 
 I build and evaluate the infrastructure that lets organizations run GenAI and AI agents securely at scale. I'm currently deepening my foundations in systems, GPU computing, and generative models.
 
@@ -45,9 +45,9 @@ I build and evaluate the infrastructure that lets organizations run GenAI and AI
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Practices:** Agile · Test-driven development · About secure environment design and sandboxes
+**Practices:** Agile · test-driven development · secure environment design and sandboxes
 
-**Learning now:** GPU/CUDA computing · scalable systems · Generative model theory
+**Learning now:** GPU/CUDA computing · scalable systems · generative model theory
 
 ---
 
@@ -61,7 +61,6 @@ I build and evaluate the infrastructure that lets organizations run GenAI and AI
 
 - **Short term:** complete my MS in CS & AI and build public projects that put the coursework into practice.
 - **Longer term:** lead Responsible AI and cyber-operations efforts for enterprise AI platforms.
-
 
 ---
 
